@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Insertionsort.cs" />
+    <Compile Include="ISorting.cs" />
+    <Compile Include="Mergesort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quicksort.cs" />
+    <Compile Include="Radixsort.cs" />
+    <Compile Include="Selectionsort.cs" />
+    <Compile Include="Shellsort.cs" />
+    <Compile Include="TestArrays.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
