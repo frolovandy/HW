@@ -20,7 +20,7 @@ namespace HW
             Selectionsort selectionSort = new Selectionsort();
             Shellsort shellSort = new Shellsort();
             TestArrays arrayGen = new TestArrays();
-
+        
 
             for (int i = 0; i < arrayLength.Length; i++)
             {
